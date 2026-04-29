@@ -118,8 +118,8 @@ A system provides benefits to store employees based on:
 |-------------------|-----|-----|-----|-----|
 | Worked > 1 year   | T   | T   | F   | F   |
 | Rating > 4        | T   | F   | T   | F   |
-| **Actions**|      
 |-------------------|-----|-----|-----|-----|
+| **Actions**|      
 | Medical benefits  | T   | T   | F   | F   |
 | Vacation voucher  | T   | F   | T   | F   |
 | Bonus             | T   | F   | F   | F   |
